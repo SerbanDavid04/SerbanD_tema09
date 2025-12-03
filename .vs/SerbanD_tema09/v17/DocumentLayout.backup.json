@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\USV\\EGC\\SerbanD_tema09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62C9A031-DFB7-4088-A5EA-12EB55789DCA}|SerbanD_tema09\\SerbanD_tema09.csproj|a:\\usv\\egc\\serband_tema09\\serband_tema09\\intrebari.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{62C9A031-DFB7-4088-A5EA-12EB55789DCA}|SerbanD_tema09\\SerbanD_tema09.csproj|solutionrelative:serband_tema09\\intrebari.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C9A031-DFB7-4088-A5EA-12EB55789DCA}|SerbanD_tema09\\SerbanD_tema09.csproj|a:\\usv\\egc\\serband_tema09\\serband_tema09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C9A031-DFB7-4088-A5EA-12EB55789DCA}|SerbanD_tema09\\SerbanD_tema09.csproj|solutionrelative:serband_tema09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C9A031-DFB7-4088-A5EA-12EB55789DCA}|SerbanD_tema09\\SerbanD_tema09.csproj|A:\\USV\\EGC\\SerbanD_tema09\\serband_tema09\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C9A031-DFB7-4088-A5EA-12EB55789DCA}|SerbanD_tema09\\SerbanD_tema09.csproj|solutionrelative:serband_tema09\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C9A031-DFB7-4088-A5EA-12EB55789DCA}|SerbanD_tema09\\SerbanD_tema09.csproj|A:\\USV\\EGC\\SerbanD_tema09\\serband_tema09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62C9A031-DFB7-4088-A5EA-12EB55789DCA}|SerbanD_tema09\\SerbanD_tema09.csproj|solutionrelative:serband_tema09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1998222459:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Intrebari.txt",
+              "DocumentMoniker": "A:\\USV\\EGC\\SerbanD_tema09\\SerbanD_tema09\\Intrebari.txt",
+              "RelativeDocumentMoniker": "SerbanD_tema09\\Intrebari.txt",
+              "ToolTip": "A:\\USV\\EGC\\SerbanD_tema09\\SerbanD_tema09\\Intrebari.txt",
+              "RelativeToolTip": "SerbanD_tema09\\Intrebari.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-03T19:12:50.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "A:\\USV\\EGC\\SerbanD_tema09\\SerbanD_tema09\\Form1.cs",
+              "RelativeDocumentMoniker": "SerbanD_tema09\\Form1.cs",
+              "ToolTip": "A:\\USV\\EGC\\SerbanD_tema09\\SerbanD_tema09\\Form1.cs",
+              "RelativeToolTip": "SerbanD_tema09\\Form1.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAcwBwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:31:52.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "A:\\USV\\EGC\\SerbanD_tema09\\SerbanD_tema09\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SerbanD_tema09\\Form1.Designer.cs",
+              "ToolTip": "A:\\USV\\EGC\\SerbanD_tema09\\SerbanD_tema09\\Form1.Designer.cs",
+              "RelativeToolTip": "SerbanD_tema09\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:25:53.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "A:\\USV\\EGC\\SerbanD_tema09\\SerbanD_tema09\\Form1.cs",
+              "RelativeDocumentMoniker": "SerbanD_tema09\\Form1.cs",
+              "ToolTip": "A:\\USV\\EGC\\SerbanD_tema09\\SerbanD_tema09\\Form1.cs [Design]",
+              "RelativeToolTip": "SerbanD_tema09\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:24:49.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

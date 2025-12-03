@@ -1,0 +1,19 @@
+﻿1. Utilizați pentru texturare imagini cu transparență și fără. Ce observați?
+	
+	Imaginile fara transparenta apar opace, fundalul imaginii este vizibil si nu putem vedea prin obiect.
+	Imaginile cu transparenta (cu canal alpha) permit decuparea texturii, astfel zonele transparente devin invizibile.
+	Pentru ca transparenta sa functioneze, trebuie activat blending-ul. Fara blending, zonele transparente pot aparea albe, negre sau opace.
+
+2. Ce formate de imagine pot fi aplicate în procesul de texturare în OpenGL?
+
+	Orice format de imagine pe care programul il poate decoda si converti intr-un buffer de pixeli poate fi folosit in OpenGL. Formatele frecvent 
+	utilizate sunt PNG, JPG, JPEG, BMP, TGA, GIF, DDS.
+
+3. Specificați ce se întâmplă atunci când se modifică culoarea (prin manipularea canalelor RGB) obiectului texturat.
+	
+	Culoarea obiectului se combina cu textura prin multiplicare (culoare_finala = culoare_textura * culoare_obiect)
+
+4. Ce deosebiri există între scena ce utilizează obiecte texturate în modul iluminare activat, respectiv dezactivat?
+
+	Atunci cand iluminarea este activata, culoarea finala a obiectului texturat este influentata de sursele de lumina din scena (pozitie, culoare, intensitate).
+	Atunci cand iluminarea este dezactivata, textura este afisata fara a fi afectata de lumina, rezultand o culoare plana si uniforma.
